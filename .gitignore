@@ -1,0 +1,10 @@
+target
+*.log
+*.bak
+*~
+.DS_Store
+
+.project
+.settings/
+.classpath
+.scala_dependencies
